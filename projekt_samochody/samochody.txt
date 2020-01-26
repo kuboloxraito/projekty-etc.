@@ -1,0 +1,39 @@
+--- samochod ---
+marka: skoda
+model: citigo
+rok produkcji: 2010
+pojemnosc silnika: 1300
+nr silnika: 45VG342EW34
+nr nadwozia: 324987TR854FR321
+data pierwszej rejestracji: 2010-05-03
+
+numery rejestracyjne:
+2010-05-03 SG12345
+2012-11-03 ZS434U
+2014-12-05 NOL3421
+
+wlaciciele:
+2010-05-03 Zbigniew Szpak
+2010-12-12 Anna Romaryn
+2012-10-04 Teodor Puma
+2014-11-15 Elzbieta Fiuk, Grzegorz Fiuk
+
+--- samochod ---
+marka: audi
+model: a3
+rok produkcji: 2011
+pojemnosc silnika: 2000
+nr silnika: 45VG342EG6K
+nr nadwozia: 324987TR854928D1
+data pierwszej rejestracji: 2012-11-03
+
+numery rejestracyjne:
+2010-05-03 SG12345
+2012-11-03 ZS434U
+2014-12-05 NOL3421
+
+wlaciciele:
+2010-05-03 Zbigniew Szpak
+2010-12-12 Anna Romaryn
+2012-10-04 Teodor Puma
+2014-11-15 Daniel Magik
